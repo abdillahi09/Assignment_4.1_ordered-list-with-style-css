@@ -1,0 +1,6 @@
+/* Set background color to only third list item. */
+
+div.third ul li:nth-child(3) {
+	background: blue;
+}
+	
